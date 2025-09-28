@@ -6,7 +6,7 @@ Welcome! I'm **Pendem Mahesh**, a passionate Computer Science Engineering studen
 
 ## 👤 About Me
 
-Hi there! I'm **Pendem Mahesh**, currently in my rd year pursuing B.Tech in **Computer Science and Engineering** at **RGUKT Basar (IIIT Basar)**. I’m passionate about **Web Development**, **Software Engineering**, and **Generative AI**.
+Hi there! I'm **Pendem Mahesh**, currently in my Final year pursuing B.Tech in **Computer Science and Engineering** at **RGUKT Basar (IIIT Basar)**. I’m passionate about **Web Development**, **Software Engineering**, and **Generative AI**.
 
 ---
 
