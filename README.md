@@ -35,17 +35,13 @@ Hi there! I'm **Pendem Mahesh**, currently in my rd year pursuing B.Tech in **Co
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| **Charity Bridge** | Web platform connecting donors and verified beneficiaries with login systems and donation tracking. | HTML, CSS, PHP, MySQL |
-| **Online Auction Platform** | A React + Express.js full-stack app for bidding, developed in AICTE internship. | React.js, Node.js, MongoDB |
-| **AI-Powered Web Scraper Chatbot** | Web scraper + RAG chatbot using Groq LLM and HuggingFace embeddings. | Streamlit, LangChain, Groq API |
-| **WebBuzz Cricket Tournament Website** | Animated, responsive React website with multistep registration, built for WebBuzz competition. | React.js, Tailwind CSS, Framer Motion |
-| **Hall Ticket Generator** | Modern and printable layout for student hall tickets with PHP backend. | HTML, CSS, PHP |
-| **Hostel Room Booking System** | JSP-based system to check and modify room vacancies with MySQL DB. | JSP, MySQL |
-| **Exam Registration Form** | Responsive form to register students with subject selection and section classification. | HTML, CSS, PHP |
-| **Vision-Language Object Recognition Bot** | A DL-based image chatbot that explains detected objects. | Deep Learning, Python |
+| **AI-Powered Web Scraper Chatbot** | Web scraper combined with RAG chatbot to answer queries from scraped data. | Streamlit, LangChain, Groq API, Python |
+| **Online Auction Platform** | Full-stack React + Express.js app for bidding, developed during AICTE internship. | React.js, Node.js, MongoDB, Express.js |
+| **WebBuzz Cricket Tournament Website** | Animated, responsive React site with multistep registration, built for WebBuzz competition. | React.js, Tailwind CSS, Framer Motion |
+| **Charity Bridge** | Platform connecting donors and verified beneficiaries with login systems and donation tracking. | HTML, CSS, PHP, MySQL |
 | **AI-Powered PDF Q&A Chatbot** | Streamlit app to ask questions from uploaded PDFs using RAG + Groq. | Python, LangChain, HuggingFace |
-| **TS Model School Web Project** | A school website showcasing announcements, infrastructure, and activities with backend features using PHP. | HTML, CSS, JavaScript, PHP |
----
+| **Hall Ticket Generator** | Modern, printable layout for student hall tickets with PHP backend. | HTML, CSS, PHP, MySQL |
+| **TS Model School Web Project** | School website showcasing announcements, infrastructure, and activities with backend features. | HTML, CSS, JavaScript, PHP |
 
 ## 📜 Certifications
 
