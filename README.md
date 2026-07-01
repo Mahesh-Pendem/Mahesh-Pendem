@@ -5,6 +5,7 @@
 ### Full Stack Developer • MERN Stack Developer • AI/ML Enthusiast
 
 <img src="./Assets/output.gif" alt="Superhero Banner" width="900"/>
+<img src="./Assets/banner.jpeg" alt="Superhero Banner" width="900"/>
 
 <p>
 <a href="https://github.com/Mahesh-Pendem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
