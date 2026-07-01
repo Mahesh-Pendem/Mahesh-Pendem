@@ -1,21 +1,28 @@
 <div align="center">
 
-# Hi 👋 I'm Mahesh Pendem
+<img src="./Assets/banner.jpeg" width="100%" alt="Banner"/>
 
-### Full Stack Developer • MERN Stack Developer • AI/ML Enthusiast
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;Building+Modern+Web+Applications"/>
 
-<img src="./Assets/banner.jpeg" alt="Superhero Banner" width="900"/>
+<br>
 
-<p>
-<a href="https://github.com/Mahesh-Pendem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/pendem-mahesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:maheshpendem3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
-</p>
+<a href="https://github.com/Mahesh-Pendem">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;Building+Modern+Web+Applications" />
+<a href="https://www.linkedin.com/in/pendem-mahesh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
-![](https://komarev.com/ghpvc/?username=Mahesh-Pendem&style=for-the-badge&color=blueviolet)
+<a href="mailto:maheshpendem3@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mahesh-Pendem&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
