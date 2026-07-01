@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • MERN Stack Developer • AI/ML Enthusiast
 
-<img src="./Assets/superhero.png" alt="Superhero Banner" width="400"/>
+
 <img src="./Assets/banner.jpeg" alt="Superhero Banner" width="900"/>
 
 <p>
