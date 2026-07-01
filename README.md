@@ -1,229 +1,197 @@
-::: {align="center"}
+<div align="center">
+
 # Hi 👋 I'm Mahesh Pendem
 
-### Full Stack Developer \| MERN Stack Developer \| AI/ML Enthusiast
+### Full Stack Developer • MERN Stack Developer • AI/ML Enthusiast
 
-`<img src="./Assets/output.gif" width="800" alt="Superhero Banner"/>`{=html}
+<img src="./Assets/output.gif" width="850" alt="Superhero Banner"/>
 
-```{=html}
 <p>
-```
-`<a href="https://github.com/Mahesh-Pendem">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/pendem-mahesh">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
-`<a href="mailto:maheshpendem3@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>`{=html}`</a>`{=html}
-```{=html}
+<a href="https://github.com/Mahesh-Pendem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/in/pendem-mahesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:maheshpendem3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
 </p>
-```
-:::
 
-------------------------------------------------------------------------
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+New+Technologies" />
 
-# About Me
+</div>
 
-I am a passionate **Full Stack Developer** from Telangana, India. I
-enjoy building scalable web applications using the **MERN Stack** and
-solving real-world problems through clean, maintainable code. Alongside
-web development, I have experience developing Machine Learning
-applications with Python and Streamlit.
+---
 
--   🔭 Currently working on MERN Stack projects
--   🌱 Learning System Design, Cloud and Advanced React
--   💬 Ask me about React, Node.js, Express.js, MongoDB, JavaScript and
-    Python
--   🎓 B.Tech CSE (2026), RGUKT Basar (CGPA: 8.42)
--   📫 maheshpendem3@gmail.com
+# 🚀 About Me
 
-------------------------------------------------------------------------
+I'm **Mahesh Pendem**, a passionate **Full Stack Developer** from Telangana, India with experience building scalable web applications using the **MERN Stack** and developing AI/ML applications with Python.
 
-# Tech Stack
+- 💼 Currently working as a **Full Stack Developer at T-Home Fintech**
+- 🎓 B.Tech in Computer Science & Engineering (RGUKT Basar, CGPA: **8.42**)
+- 🌱 Currently learning **System Design, Cloud Computing and Advanced React**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript and Python**
+- 🤝 Open to **Full Stack Developer** and **Software Engineer** opportunities
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=java,js,python,c,html,css)
+<img src="https://skillicons.dev/icons?i=java,js,python,c,html,css" />
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=react,tailwind,bootstrap)
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 
 ### Backend & Databases
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 
-------------------------------------------------------------------------
+---
 
-# AI / ML Expertise
+# 🤖 AI / ML
 
-  Domain             Experience
-  ------------------ -------------------------------------
-  Machine Learning   Regression Models, Model Evaluation
-  Data Analysis      Pandas, NumPy
-  Visualization      Matplotlib
-  Deployment         Streamlit
+| Domain | Details |
+|-------|---------|
+| Machine Learning | Regression Models, Model Evaluation |
+| Libraries | Scikit-learn, Pandas, NumPy, Matplotlib |
+| Deployment | Streamlit |
 
-------------------------------------------------------------------------
+---
 
-# Featured Projects
+# 📂 Featured Projects
 
-```{=html}
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}Online Auction System`</b>`{=html}
-```{=html}
-</summary>
-```
--   MERN Stack application
--   Secure Authentication
--   Real-time Bidding
--   REST APIs
--   MongoDB Database
+<summary><b>Online Auction System</b></summary>
 
-Repository: https://github.com/Mahesh-Pendem
+- MERN Stack
+- Authentication
+- Real-time Bidding
+- REST APIs
+- MongoDB
 
-```{=html}
 </details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}Student Performance Prediction System`</b>`{=html}
-```{=html}
-</summary>
-```
--   Python
--   Scikit-learn
--   Streamlit
--   Regression
--   Data Visualization
 
-```{=html}
-</details>
-```
-```{=html}
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}Manikanta Medical and General Store`</b>`{=html}
-```{=html}
-</summary>
-```
+<summary><b>T-Foods E-Commerce Platform</b></summary>
+
+- React
+- Node.js
+- Express
+- MongoDB
+- Responsive UI
+
+</details>
+
+<details>
+<summary><b>Manikanta Medical & General Store</b></summary>
+
+- React
+- Tailwind CSS
+- Responsive Design
+
 Live: https://manikanta-medical.vercel.app/
 
--   React
--   Tailwind CSS
--   Responsive Design
-
-```{=html}
 </details>
-```
 
-------------------------------------------------------------------------
+<details>
+<summary><b>Student Performance Prediction System</b></summary>
 
-# Experience
+- Python
+- Scikit-learn
+- Streamlit
+- Regression
+
+</details>
+
+---
+
+# 💼 Experience
+
+## Full Stack Developer
+**T-Home Fintech** *(Current)*
+
+- Developing scalable MERN applications
+- Building responsive user interfaces
+- Developing REST APIs
+- Integrating backend services and databases
+- Fixing bugs and improving performance
 
 ## Full Stack Web Development Intern
+**Edunet Foundation (AICTE)**
 
-**Edunet Foundation (AICTE Internship)**
-
--   Built an Online Auction System using MERN Stack
--   Developed REST APIs
--   Built responsive React UI
--   Worked with MongoDB
+- Built an Online Auction System
+- React, Express, MongoDB
 
 ## Frontend Developer Intern
-
 **VaultofCodes**
 
--   HTML
--   CSS
--   JavaScript
--   Responsive Websites
-
 ## Frontend Developer Intern
-
 **Heal Bharat**
 
--   Portfolio Website
--   Responsive UI
--   JavaScript
+---
 
-------------------------------------------------------------------------
+# 📜 Certifications
 
-# Certifications
+- AICTE MERN Stack Internship
+- EY GDS Full Stack Internship
+- VaultofCodes Internship
+- Heal Bharat Internship
+- Smart India Hackathon
+- WebBuzz Hackathon
+- HackerRank SQL
+- SoloLearn HTML
+- Scaler JavaScript
 
--   AICTE MERN Stack Internship
--   EY GDS Full Stack Internship
--   VaultofCodes Internship
--   Heal Bharat Internship
--   WebBuzz Hackathon
--   Smart India Hackathon
--   SoloLearn HTML
--   HackerRank SQL
--   Scaler JavaScript
+---
 
-------------------------------------------------------------------------
+# 📊 GitHub Analytics
 
-# GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=Mahesh-Pendem&show_icons=true&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Pendem&show_icons=true&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Mahesh-Pendem&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=Mahesh-Pendem&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Pendem&layout=compact&theme=tokyonight)
-
-------------------------------------------------------------------------
-
-# GitHub Trophies
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Pendem&layout=compact&theme=tokyonight)
 
 ![](https://github-profile-trophy.vercel.app/?username=Mahesh-Pendem&theme=tokyonight)
 
-------------------------------------------------------------------------
-
-# Activity Graph
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-Pendem&theme=tokyo-night)
 
-------------------------------------------------------------------------
+---
 
-# Current Focus
+# 🎯 Current Focus
 
-``` yaml
+```yaml
 learning:
   - System Design
   - Cloud Computing
   - Advanced React
 
+working:
+  - Full Stack Developer @ T-Home Fintech
+
 building:
-  - MERN Stack Applications
+  - MERN Applications
   - AI Powered Projects
 
 open_to:
   - Full Stack Developer
   - Software Engineer
-  - Frontend Developer
 ```
 
-------------------------------------------------------------------------
+---
 
-# Connect
+# 📫 Connect
 
--   GitHub: https://github.com/Mahesh-Pendem
--   LinkedIn: https://www.linkedin.com/in/pendem-mahesh
--   Email: maheshpendem3@gmail.com
+- GitHub: https://github.com/Mahesh-Pendem
+- LinkedIn: https://www.linkedin.com/in/pendem-mahesh
+- Email: maheshpendem3@gmail.com
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
-### "Building modern web applications with clean code and continuous learning."
-:::
+<div align="center">
+
+### "Building impactful software through clean code, continuous learning, and innovation."
+
+</div>
