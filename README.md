@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;Building+Modern+Web+Applications"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/Mahesh-Pendem">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
