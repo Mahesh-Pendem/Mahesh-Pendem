@@ -23,11 +23,6 @@
 <a href="mailto:maheshpendem3@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Mahesh-Pendem&style=for-the-badge&color=blueviolet"/>
-
 </div>
 
 ---
